@@ -1,4 +1,4 @@
-# Spots and dots
+# NACIS 2023
 
 ## Spots and Dots: Building a Modern Web UI for Mapping Density with Gridded Proportional Symbols
 
