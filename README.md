@@ -21,7 +21,7 @@ Jeremy Bartley
 
 ### Slides
 
-[Download PDF slides]()
+[Download PDF slides](https://github.com/ekenes/nacis-2023/raw/main/spots%20and%20dots%20-%20nacis%202023.pdf)
 
 ### Methodology
 
