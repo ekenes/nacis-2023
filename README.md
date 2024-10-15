@@ -7,17 +7,19 @@ In his 1967 book, “Urban Atlas,” Richard Saul Wurman introduced an innovativ
 ### Authors
 
 Kristian Ekenes
+
 - [Email](mailto:kekenes@esri.com)
 - [LinkedIn](https://www.linkedin.com/in/kristian-ekenes/)
 - [GitHub](https://github.com/ekenes)
 
 Jeremy Bartley
+
 - [Email](mailto:jbartley@esri.com)
 - [LinkedIn](https://www.linkedin.com/in/jeremy-bartley-esri/)
 
 ### Video
 
-[Watch on YouTube]()
+[Watch on YouTube](https://www.youtube.com/watch?v=5mNZ9LdHhik&ab_channel=NACIS)
 
 ### Slides
 
